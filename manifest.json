@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "patch_version": "1.2",
+  "patch_version": "1.3",
   "date": "2026-11-18",
   "delivery": "manual game-folder overlay ZIP",
   "game": "Selene ~Apoptosis~",
@@ -24,8 +24,8 @@
     "latest_accepted_corrections": "User revision toward the English original, reviewed with Claude",
     "external_model_identifiers": "Historical model identifiers are not fully recoverable; no new external translation in this release build"
   },
-  "payload_files": 97,
-  "payload_bytes": 4282430,
+  "payload_files": 125,
+  "payload_bytes": 4470802,
   "files": [
     {
       "path": "game/screens.rpyc",
@@ -46,6 +46,146 @@
       "path": "game/selene_ko_commentary.rpyc",
       "size": 2952908,
       "sha256": "e2cde6c0c3452c8dfaa4351598040894965597a7edaf043cc0aee8c05aff8245"
+    },
+    {
+      "path": "game/selene_ko_extras.rpyc",
+      "size": 18944,
+      "sha256": "f608d8cdab5c338a2d811ea3f61261e663bb90646e4ca93366c476a877482147"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/gu.jpg",
+      "size": 6491,
+      "sha256": "e9899fc6be921a7a1610615833a093aae5672b7f6883290b11ddc597c5512ef5"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/haircut.jpg",
+      "size": 7072,
+      "sha256": "f97987d71c1869b4519412df72ca3558db51580060e7d03f9c69935e6f95a9eb"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/head.jpg",
+      "size": 9053,
+      "sha256": "a4200cb3d8e0b4953ae5558cb2b534660207481a93018cda1269577f69c32325"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/hy.jpg",
+      "size": 2481,
+      "sha256": "6604fe2363e9648060e752916b78b540efa94309a3ad79f707b1bdfc958ffef3"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/ido.jpg",
+      "size": 5756,
+      "sha256": "2c77a91223507e30776912024fb5eb91724006ed4aba9fa5af746692e19e1325"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/kiss.jpg",
+      "size": 5630,
+      "sha256": "5b000c9cfa9caf1e1c1ca3897604fe51c029cc724409f938bd460660da74e38e"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/lap.jpg",
+      "size": 8741,
+      "sha256": "29004beb84bd740997dbc512e74809b57016b21fcfc13d9fd055fd6cd1bb1155"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/lick.jpg",
+      "size": 6503,
+      "sha256": "d11e2dfb2833ca96d0de06b5286b7f69b24d0d72ede7b59c118d85b67c63f3a2"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/lonely.jpg",
+      "size": 4544,
+      "sha256": "a4aeb1b324d7a004afb044374c89ee863715492ad0738dbed6ddfe2e4901286d"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/meat.jpg",
+      "size": 8709,
+      "sha256": "9a3b97ea68bf0573eeb8cde5db54c148ec6ae1e8f11b56e6840e183cd496e8cd"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/mirror.jpg",
+      "size": 3163,
+      "sha256": "75d066282619f869297947895252599fc10f5f3329528ad5faed022993c52b64"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/newmoon.jpg",
+      "size": 6199,
+      "sha256": "0d9a59e5a9607bdb10e5331d2806e12f3bb8aeee70a322d98964e231c7a2715a"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/pict.jpg",
+      "size": 5307,
+      "sha256": "0d1e5a36cf1fdc1d272997fcf678c86fe7eb8170e58da1a1b80c41e8554979f3"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/pipe.jpg",
+      "size": 10365,
+      "sha256": "26cde8ada094f5e4a5c1be921c5cbe22d8a05272812cd33e550f30c060d91b9e"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/rain.jpg",
+      "size": 8209,
+      "sha256": "9072cc645243fd58e2035e3eebd94fbdd6b6d844c723de0fcacd44336ecbd655"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/saint.jpg",
+      "size": 5041,
+      "sha256": "31e7d475e0330d0706747c4c10c7167bbdf783e98ad8a9e5677e631bc0c6b6e3"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/saveyou.jpg",
+      "size": 6190,
+      "sha256": "1c0fc320a2c603fc48b8089df126ffc2c762717932555339ec6fbdc6d783f6e6"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/shadow.jpg",
+      "size": 6063,
+      "sha256": "e59a7ea5e72dd242b05de19541f9c55d92e3858dce5290adbd46698c2d7ec87f"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/shdr.jpg",
+      "size": 5277,
+      "sha256": "558b1322a86ad828e380113f45a76a0ae3c84a3b5b2f8c280a56f395f49bc8bf"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/shower.jpg",
+      "size": 7466,
+      "sha256": "2e467cf299b02146afaa8e5d0249b2df39a218fc5995fb895df9a489f4826c88"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/smile.jpg",
+      "size": 6988,
+      "sha256": "2080f008b99d79d2fd77224ce532884a847ab0eb8e39c6d37b4e42195bc264b8"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/suss.jpg",
+      "size": 6986,
+      "sha256": "aa5a8dcd89debe4bcdc9a949be053a5d990e80dc2f87f22cf942c8cc2c29c454"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/ts.jpg",
+      "size": 3673,
+      "sha256": "93aa3a95ec1a239e51e19fa0579584ca6853c08141b4e3f146f50aee08f1b26f"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/void.jpg",
+      "size": 4499,
+      "sha256": "8cf277befeb6e5dfbce6daa1438cc3450a37139039c4cc861b5da7d3bb76bfb2"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/wndw.jpg",
+      "size": 5598,
+      "sha256": "632f7aeefe44e5c1254642eee8289405c4cfa47d3fb590c596e743eaa7e41628"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/wr12.jpg",
+      "size": 6175,
+      "sha256": "4993f5f0550ff4c8ae62d2c36e1b7a120b6e7dc16fcf8be15946124fe89e559f"
+    },
+    {
+      "path": "game/selene_ko_extras/thumbs/wr35.jpg",
+      "size": 7249,
+      "sha256": "bea5cbbdb0c0229701812b0d26a861425d27ef772627dac76249a3c6a904bfb5"
     },
     {
       "path": "game/selene_ko_flowchart.rpyc",
