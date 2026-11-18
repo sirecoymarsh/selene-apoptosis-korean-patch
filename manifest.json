@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "patch_version": "1.1",
-  "date": "2026-10-09",
+  "patch_version": "1.2",
+  "date": "2026-11-18",
   "delivery": "manual game-folder overlay ZIP",
   "game": "Selene ~Apoptosis~",
   "steam_app_id": 1398210,
@@ -21,11 +21,11 @@
   },
   "translation_provenance": {
     "authors": "User-directed revision using Claude, Gemini and Codex internal; not a single-model translation",
-    "latest_accepted_corrections": "Codex internal",
+    "latest_accepted_corrections": "User revision toward the English original, reviewed with Claude",
     "external_model_identifiers": "Historical model identifiers are not fully recoverable; no new external translation in this release build"
   },
   "payload_files": 97,
-  "payload_bytes": 3492264,
+  "payload_bytes": 4282430,
   "files": [
     {
       "path": "game/screens.rpyc",
@@ -44,8 +44,8 @@
     },
     {
       "path": "game/selene_ko_commentary.rpyc",
-      "size": 2100966,
-      "sha256": "ed6cfbd1e8dc1298f25c06753797adcba153e850274d7b7df8175fe233f55990"
+      "size": 2952908,
+      "sha256": "e2cde6c0c3452c8dfaa4351598040894965597a7edaf043cc0aee8c05aff8245"
     },
     {
       "path": "game/selene_ko_flowchart.rpyc",
@@ -54,33 +54,33 @@
     },
     {
       "path": "game/tl/korean/chapters/chapter_a1.rpyc",
-      "size": 21659,
-      "sha256": "435688296afb92eaf8bb3a013730d3074abe345f08300cf77657133423080486"
+      "size": 16503,
+      "sha256": "3bb3a81d5ec10c8cc5f0fac949337c36507b2a474059522dc3cb09eae08d29e1"
     },
     {
       "path": "game/tl/korean/chapters/chapter_a2.1.rpyc",
-      "size": 6110,
-      "sha256": "a417ec3fe5d7f6f512f6a46e2bb194cfeee549f737bb5997f44a917e51472115"
+      "size": 4769,
+      "sha256": "4641372dc35ad96cc4748e02d8c1f24c1558991f7b78eb053696afb12020cb25"
     },
     {
       "path": "game/tl/korean/chapters/chapter_a3.1.rpyc",
-      "size": 6821,
-      "sha256": "22f97c30907efbcd67aadc3ee6a26f0fa10d73780fb1680f7e882647ae118b12"
+      "size": 6498,
+      "sha256": "b00be0efb1b84d805dba95bd911bb0d94e7b60e7c578e17edc470cee8205237a"
     },
     {
       "path": "game/tl/korean/chapters/chapter_a3.rpyc",
-      "size": 18106,
-      "sha256": "a8afb1eb02fd544040ac9bbe79f1b1e925d35594223b387a9ba7c48ff01fcfd1"
+      "size": 13957,
+      "sha256": "dc1931ef1b8ba760910f187e820ea4dea164e1566f652f102073d848e493352d"
     },
     {
       "path": "game/tl/korean/chapters/chapter_a4.rpyc",
-      "size": 16518,
-      "sha256": "297bb92056242f116ef94b1fa0d9bbf6e57200979f2ea582cf0491c95cbf01db"
+      "size": 13513,
+      "sha256": "caf9e1f5875919f33f00a367ce23f68f7d0b3fc610712b02327eb1a2b98315f2"
     },
     {
       "path": "game/tl/korean/chapters/chapter_a5.rpyc",
-      "size": 22466,
-      "sha256": "7f2c52f179587fda14e4f59aa1bb440ba775038cc6b8534549b4e764ec5a1cd1"
+      "size": 17261,
+      "sha256": "ccf792c4a2c0cbdc1d70d18375cdaa49ac834f79d6efead7311cfd75d3233bc2"
     },
     {
       "path": "game/tl/korean/chapters/chapter_a6.rpyc",
@@ -89,48 +89,48 @@
     },
     {
       "path": "game/tl/korean/chapters/chapter_a7.rpyc",
-      "size": 18255,
-      "sha256": "3e2f931cb9ebea503bfccf286a0433c5fff1deaec058cb86004532becc8cf357"
+      "size": 17585,
+      "sha256": "0e4b1690f098f07126731591cd0126f08a67b6135ec76e5067e02af15743f4ae"
     },
     {
       "path": "game/tl/korean/chapters/chapter_a8.rpyc",
-      "size": 10711,
-      "sha256": "80a47bb653ed05349fb717dc222801e04f54ee0fabf153d2224300e84df2a740"
+      "size": 10380,
+      "sha256": "f46277f7f65268d80e4c4788c171284fb7071c77d401c8c1c41d627bce8a11c3"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b1.rpyc",
-      "size": 18027,
-      "sha256": "67f992a5f629efc5395e4783a20860ecde15f76d4e4742233bae1aba85417211"
+      "size": 13254,
+      "sha256": "375a8ddd99d420b45869284d2c0c2a59ad823726941d2a79fccfb6a32adf6e73"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b10.rpyc",
-      "size": 11417,
-      "sha256": "5c1b80fb2e2c4e46a436c782a13d5b0039806352850a7ea80ea84106a17dfff3"
+      "size": 9140,
+      "sha256": "2a6a8290957ef192f631dd7cca5d15aa68b9d4444b63a4cd49df402811a34fe7"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b11.rpyc",
-      "size": 27800,
-      "sha256": "51a16dfe4dfbf9c0efc3042e95d29d77e9d462651d2e2e4caa69d7185cf62e4e"
+      "size": 25925,
+      "sha256": "75f46ed9e6866086261750e2cede0783c08b2d186c909e647759f351fa8a91fe"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b12.rpyc",
-      "size": 11818,
-      "sha256": "e382e4de3742af4df040e87228cd55bd9800ee4c5ecb515a0e20d42a560a8d4e"
+      "size": 11604,
+      "sha256": "5c7961e4a1606191cf7f47744d3ceb039822bb205dfb3ad8da5ed04c7d1c1857"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b13.rpyc",
-      "size": 9602,
-      "sha256": "b961b012b4aef090a5a359a8a1e5051b783b5fdc4d13f1522b168fa82cd1a58c"
+      "size": 9549,
+      "sha256": "2a906acb97dfae847b919678db12801e060507cf466b82f2ef76fe1e051bfa98"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b14.rpyc",
-      "size": 16278,
-      "sha256": "9b262e854ff7e5febe1699e48255513572b1aefdf5595e0d8729d90bd48693b1"
+      "size": 12972,
+      "sha256": "eca6abd6ffa1d98594cc2787dfecda42b66c640ee07e1d0b3b81fef379111834"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b15.rpyc",
-      "size": 10394,
-      "sha256": "db0dff41fb1fde382f9ad65ef30542d718548d2577c0b72c534261db6f76783f"
+      "size": 10366,
+      "sha256": "4c740d8af7226ef662b4cc70166ab605a5a485054b7a40c1df3a4cc091a59b82"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b16.rpyc",
@@ -144,63 +144,63 @@
     },
     {
       "path": "game/tl/korean/chapters/chapter_b3.rpyc",
-      "size": 13599,
-      "sha256": "37c4d200691266e8721de82b65385298f46948558572faf0438a7a3e0ff8f675"
+      "size": 13107,
+      "sha256": "08b54b205e554ff6c43adc5723032ca7618a129da4878a53c9c178c091da906d"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b4.rpyc",
-      "size": 23654,
-      "sha256": "b21b89449a46b2f308791464377dd9423a8fd233d4c91cfeb10ad661909ba5c3"
+      "size": 19625,
+      "sha256": "08c155327f4421f18ed136ac69db28d4b643c2afd028f9cfdf20b0f8d943a3a3"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b5.rpyc",
-      "size": 15913,
-      "sha256": "d435ca3e9d5a90bde463f4cd7ce275c538135ffbaf49b600064e274ff6275c0e"
+      "size": 14694,
+      "sha256": "bd0f4e12da3c7395a4be5fe2f843f72fc5a5d2e1e81700098bcfb01247ea316a"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b6.rpyc",
-      "size": 15252,
-      "sha256": "28764fb5bcffffbbead5176f70b02ed92e5de80a2ae05cda701c6bd6559e03f0"
+      "size": 12274,
+      "sha256": "504987b41964a78f4ae3d518ee5adf4929035a35bf81d461547f10da07a0aa78"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b7.rpyc",
-      "size": 16268,
-      "sha256": "4df6e71173aa7b70d84efd448e9ea071eea9eb0ba80ea829e54364f4478c32eb"
+      "size": 13123,
+      "sha256": "7c22c4a46f6d3faa89bd54d8c310cddd48f1089c0006239000f28480a534fde6"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b8.rpyc",
-      "size": 11147,
-      "sha256": "f5d7acd1969c0ad1d9e0bb9d2714c19952ffd2246fc6e954131ffa7ddca60224"
+      "size": 10716,
+      "sha256": "8929e78f3711145d63b333d708448263da9ea19e4732ffe8785dff5b739f18af"
     },
     {
       "path": "game/tl/korean/chapters/chapter_b9.rpyc",
-      "size": 26067,
-      "sha256": "d8829a85975c11c2fb6034f7974bbf35698e1da4ec87a80dd321edb25f1b6d5f"
+      "size": 24941,
+      "sha256": "16fb0997dafb563b6209c6447033a75cab9f4dbc7451c62631cdc192b41ee5d1"
     },
     {
       "path": "game/tl/korean/chapters/chapter_e2.rpyc",
-      "size": 5678,
-      "sha256": "8f994aef73be801e9cff1a98fa6e33718bda7a562d1d7f4164cc16bc446d490f"
+      "size": 4508,
+      "sha256": "62dc6666dc317dd38ff15c1c4710b4b1dbbaf7815d802495f18d56331341de65"
     },
     {
       "path": "game/tl/korean/chapters/chapter_e3.rpyc",
-      "size": 3494,
-      "sha256": "01c282004d1602e0cf181e94260ed8a98fac544cb7077c4459abf5c3625805ee"
+      "size": 3337,
+      "sha256": "5da8659c0c7433c8999f2964efc953bad87757e655d6d7bff26668aa0d9c3f87"
     },
     {
       "path": "game/tl/korean/chapters/chapter_e4.rpyc",
-      "size": 16233,
-      "sha256": "7bb01ca7135bf04dabc2893aef77800f168a751c628641812e6a5d444ae0c07e"
+      "size": 13206,
+      "sha256": "b5546ce9874a9f99944ae039b007e0c3d161fde475c4aaf87aa348bf87afb61d"
     },
     {
       "path": "game/tl/korean/chapters/chapter_e5.rpyc",
-      "size": 32153,
-      "sha256": "18d47d7f7a539198402d2e6eef0b928bcc2836442fac28718d0754a918615a20"
+      "size": 28400,
+      "sha256": "b80ad24a90f7e00c42b60c266c1158ac1cb183b7b575fe23c24175e31bdd3d2f"
     },
     {
       "path": "game/tl/korean/chapters/chapter_e6.rpyc",
-      "size": 27048,
-      "sha256": "1d5ca39078cacce18ede8afcd183a6c75319299325153d1dff4faa1c1069b9dd"
+      "size": 20041,
+      "sha256": "3f680ec8f8e05225ae5785598fefbe6b0654a57dd696a2d4291a816803d77af2"
     },
     {
       "path": "game/tl/korean/chapters/chapter_h1.rpyc",
@@ -214,23 +214,23 @@
     },
     {
       "path": "game/tl/korean/chapters/chapter_h3.rpyc",
-      "size": 11585,
-      "sha256": "b35abd3ab037120e8dc8eddc744b7c47ad22271402686310a0156fad0683d1cb"
+      "size": 11476,
+      "sha256": "a5d6b426d4c158483d27738ba2c34a025e2ea123eede10eb835881259e29cb36"
     },
     {
       "path": "game/tl/korean/chapters/chapter_h4.rpyc",
-      "size": 6740,
-      "sha256": "bdfcf622b77cbbd382dc51ca919e5879375ca2a61b80cf5235e7a560341884f8"
+      "size": 6739,
+      "sha256": "08d9e0828fb2aa489fb153af961c39ea97c4f25505698b6087b12db9c68b5ae6"
     },
     {
       "path": "game/tl/korean/chapters/chapter_h5.rpyc",
-      "size": 12918,
-      "sha256": "2a6220038c14838e39072ae0a312f0412e0332648e54cf4f30d3ec39d9594a6a"
+      "size": 12749,
+      "sha256": "a0f50335cc6af263a11b2df485b5bcf18fe7f0f3e425dac4da41c74afb15a883"
     },
     {
       "path": "game/tl/korean/chapters/theater_of.rpyc",
-      "size": 24354,
-      "sha256": "771bb3d829cc4d4408785ba2ce7c718f54bdc90a6b747308a34d8c0601df3594"
+      "size": 24097,
+      "sha256": "08e99e740faec9f81c85ef536ae8f826c3ba0bde9180054ed67e7adab3f91e4a"
     },
     {
       "path": "game/tl/korean/common.rpyc",
